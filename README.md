@@ -4,7 +4,7 @@
 </div>
 <p align="center">Repository for my projects from the 42 Rio course.</p>
 <h4 align="center"> 
-	🚧  In rank 2  🚀 Under construction...  🚧
+	🚧  In rank 3  🚀 Under construction...  🚧
 </h4><br>
 
 | Project | Technologies | Description | Grade |
