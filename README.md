@@ -14,7 +14,8 @@
 | [ft_printf](<https://github.com/kmirim/ft_prinft>) | C | A project in which I learn about variadic variables and create my implementation of the printf function. | 100/100
 | [GNL](<https://github.com/kmirim/get_next_line>) | C | Project where I solidify my knowledge about linked lists. Function that will have to return the next line from a file descriptor. | 125/100
 | [Born2beRoot](<https://github.com/kmirim/Born2beRoot>) | Unix and Shell Script | The goal was to build a Virtual Machine configured to be a server. | 100/100
-| [Minitalk](<https://github.com/kmirim/minitalk>) | Unix and C | A server/Client communication using exclusively Unix Signals. | In progress
-| [Fract-ol](<>) | C |
-| [Push_swap](<>) | C |
-| [Philosophers](<>) | C |
+| [Minitalk](<https://github.com/kmirim/minitalk>) | Unix and C | A server/Client communication using exclusively Unix Signals. | 108/100
+| [Fract-ol](<https://github.com/kmirim/fractol>) | C | Visualize and explore fractals using MinilibX with interactive controls and custom color patterns. | 113/100
+| [Push_swap](<https://github.com/kmirim/pushswap>) | C | Sorting algorithm project that involves efficiently sorting a stack using limited operations. | 100/100
+| [Philosophers](<>) | C | 
+| [Minishell](<>) | C | 
